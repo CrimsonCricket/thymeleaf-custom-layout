@@ -4,7 +4,7 @@
 
     <groupId>pl.codeleak</groupId>
     <artifactId>thymeleaf-custom-layout</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Thymeleaf Custom Layout</name>
